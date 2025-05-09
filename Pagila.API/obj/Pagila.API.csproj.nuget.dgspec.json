@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Sahil Projects\\Projects\\dotNetCore\\ASPNETCORE\\WEBAPI\\MINIMAL API\\Pagila\\Pagila.API\\Pagila.API.csproj": {}
+    "C:\\Users\\SAHIL-PC\\source\\repos\\Pagila\\Pagila.API\\Pagila.API.csproj": {}
   },
   "projects": {
-    "F:\\Sahil Projects\\Projects\\dotNetCore\\ASPNETCORE\\WEBAPI\\MINIMAL API\\Pagila\\Pagila.API\\Pagila.API.csproj": {
+    "C:\\Users\\SAHIL-PC\\source\\repos\\Pagila\\Pagila.API\\Pagila.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Sahil Projects\\Projects\\dotNetCore\\ASPNETCORE\\WEBAPI\\MINIMAL API\\Pagila\\Pagila.API\\Pagila.API.csproj",
+        "projectUniqueName": "C:\\Users\\SAHIL-PC\\source\\repos\\Pagila\\Pagila.API\\Pagila.API.csproj",
         "projectName": "Pagila.API",
-        "projectPath": "F:\\Sahil Projects\\Projects\\dotNetCore\\ASPNETCORE\\WEBAPI\\MINIMAL API\\Pagila\\Pagila.API\\Pagila.API.csproj",
-        "packagesPath": "C:\\Users\\NIC-ROJGAR\\.nuget\\packages\\",
-        "outputPath": "F:\\Sahil Projects\\Projects\\dotNetCore\\ASPNETCORE\\WEBAPI\\MINIMAL API\\Pagila\\Pagila.API\\obj\\",
+        "projectPath": "C:\\Users\\SAHIL-PC\\source\\repos\\Pagila\\Pagila.API\\Pagila.API.csproj",
+        "packagesPath": "C:\\Users\\SAHIL-PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SAHIL-PC\\source\\repos\\Pagila\\Pagila.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\NIC-ROJGAR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SAHIL-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
