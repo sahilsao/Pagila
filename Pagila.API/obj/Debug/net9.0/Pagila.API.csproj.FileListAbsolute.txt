@@ -54,3 +54,4 @@ F:\Sahil Projects\Projects\dotNetCore\ASPNETCORE\WEBAPI\MINIMAL API\Pagila\Pagil
 F:\Sahil Projects\Projects\dotNetCore\ASPNETCORE\WEBAPI\MINIMAL API\Pagila\Pagila.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 F:\Sahil Projects\Projects\dotNetCore\ASPNETCORE\WEBAPI\MINIMAL API\Pagila\Pagila.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 F:\Sahil Projects\Projects\dotNetCore\ASPNETCORE\WEBAPI\MINIMAL API\Pagila\Pagila.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.ReDoc.dll
+F:\Sahil Projects\Projects\dotNetCore\ASPNETCORE\WEBAPI\MINIMAL API\Pagila\Pagila.API\obj\Debug\net9.0\Pagila.API.sourcelink.json
